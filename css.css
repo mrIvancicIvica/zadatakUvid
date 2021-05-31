@@ -1,0 +1,32 @@
+
+.input {
+  padding-bottom: 14px;
+}
+
+.list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 40px;
+}
+
+.button{
+    padding-bottom: 5px;
+}
+
+
+.logo{
+  width: 80px;
+  height: 80px;
+}
+
+.pic{
+  width: 70px;
+  height: 70px;
+}
+
+.aboutme {
+  padding: 40vh;
+  padding-left: 80vh;
+}
+
